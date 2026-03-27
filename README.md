@@ -1,2 +1,2 @@
 # word2vec
-random experiment
+paper faithful implementation of word2vec skip-gram architecture.
